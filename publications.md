@@ -19,7 +19,7 @@ You can also browse my <a href="https://scholar.google.com/citations?user=HzIWE5
 
 **2019**
 
-- **n Extended Two-Dimensional Vocal Tract Model for Fast Acoustic Simulation of Single-Axis Symmetric Three-Dimensional Tubes**  
+- **An Extended Two-Dimensional Vocal Tract Model for Fast Acoustic Simulation of Single-Axis Symmetric Three-Dimensional Tubes**  
 	**D.R. Mohapatra**, V. Zappi, S. Fels.
 	*Interspeech*, 2019.  
 	[PDF](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/1764.pdf){: .btn}
