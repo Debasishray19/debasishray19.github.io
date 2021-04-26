@@ -7,10 +7,9 @@ You can also browse my <a href="https://scholar.google.com/citations?user=HzIWE5
 <br />
 
 **2020**
-
 - **A comparative study of two-dimensional vocal tract acoustic modeling based on Finite-Difference Time-Domain methods**  
 	**D.R. Mohapatra**, V. Zappi, S. Fels.
-	*International Seminar on Speech Production* (ISSP) 2020. 
+	*International Seminar on Speech Production* (ISSP) 2020.  
 	[PDF](https://arxiv.org/pdf/2102.04588.pdf){: .btn}
 
 - **Speak With Your Hands - Using Continuous Hand Gestures to control Articulatory Speech Synthesizer**  
