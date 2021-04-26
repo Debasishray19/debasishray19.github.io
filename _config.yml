@@ -25,7 +25,7 @@ description: Homepage
 navbar-links:
   Home: ""
   Publications: "publications"
-  Blog: "blog"
+  #Blog: "blog"
   # Talks: "talks"
   Resume: "resume"
 
