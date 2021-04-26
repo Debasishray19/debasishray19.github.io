@@ -11,7 +11,6 @@ You can also browse my <a href="https://scholar.google.com/citations?user=HzIWE5
 	**D.R. Mohapatra**, V. Zappi, S. Fels.
 	*International Seminar on Speech Production* (ISSP) 2020.  
 	[PDF](https://arxiv.org/pdf/2102.04588.pdf){: .btn}
-
 - **Speak With Your Hands - Using Continuous Hand Gestures to control Articulatory Speech Synthesizer**  
 	P. Saha, **D.R. Mohapatra**, S. Fels.
 	*International Seminar on Speech Production* (ISSP) 2020.  
@@ -31,7 +30,6 @@ You can also browse my <a href="https://scholar.google.com/citations?user=HzIWE5
 	**D.R. Mohapatra**, S. Fels.
 	*Canadian Acoustics 46(4)*, 2018.  
 	[PDF](https://arxiv.org/pdf/1811.07435.pdf){: .btn}
-
 - **Sound-Stream II: Towards Real-Time Gesture-Controlled Articulatory Sound Synthesis**  
 	P. Saha, **D.R. Mohapatra**, P.Srungarapu, S. Fels.
 	*Canadian Acoustics 46(4)*, 2018.  
