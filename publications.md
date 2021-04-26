@@ -17,7 +17,6 @@ You can also browse my <a href="https://scholar.google.com/citations?user=HzIWE5
 	[PDF](https://arxiv.org/pdf/2102.01640.pdf){: .btn}
 
 **2019**
-
 - **An Extended Two-Dimensional Vocal Tract Model for Fast Acoustic Simulation of Single-Axis Symmetric Three-Dimensional Tubes**  
 	**D.R. Mohapatra**, V. Zappi, S. Fels.
 	*Interspeech*, 2019.  
@@ -25,7 +24,6 @@ You can also browse my <a href="https://scholar.google.com/citations?user=HzIWE5
 	[Code](https://github.com/Debasishray19/Talking-Tube){: .btn}
 
 **2018**
-
 - **Limitations Of Source-Filter Coupling In Phonation**  
 	**D.R. Mohapatra**, S. Fels.
 	*Canadian Acoustics 46(4)*, 2018.  
