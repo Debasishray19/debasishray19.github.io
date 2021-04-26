@@ -8,29 +8,15 @@ You can also browse my <a href="https://scholar.google.com/citations?user=HzIWE5
 
 **2020**
 
-- **The JHU multi-microphone multi-speaker ASR system for the CHiME-6 challenge**  
-	Ashish Arora\*, **Desh Raj**\*, Aswin Shanmugam Subramanian\*, Ke Li\*, Bar Benyair, Matthew Maciejewski, Piotr Zelasko, Paola Garcia, Shinji Watanabe, Sanjeev Khudanpur.  
-	*The 6th CHiME Workshop (at ICASSP 2020)*.  
-	[PDF](https://arxiv.org/abs/2006.07898){: .btn}
-	[Video](https://www.youtube.com/watch?v=BLK8YFNk7is&feature=youtu.be){: .btn}
-  	[Slides](https://chimechallenge.github.io/chime2020-workshop/presentations/CHiME_2020_slides_arora.pdf){: .btn}
+- **A comparative study of two-dimensional vocal tract acoustic modeling based on Finite-Difference Time-Domain methods**  
+	**D.R. Mohapatra**, V. Zappi, S. Fels.
+	*International Seminar on Speech Production* (ISSP) 2020. 
+	[PDF](https://arxiv.org/pdf/2102.04588.pdf){: .btn}
 
-**2020**
-
-- **Probing the infomation encoded in x-vectors**  
-	**Desh Raj**, David Snyder, Daniel Povey, Sanjeev Khudanpur.  
-	*IEEE Workshop on Automatic Speech Recognition and Understanding* (ASRU) 2019.  
-	[PDF](http://arxiv.org/abs/1909.06351){: .btn}
-	[Code](https://github.com/desh2608/kaldi/commit/43cfc9d515b94b321acccae51bf39988dafbbef7){: .btn}
-  	[Poster](/static/poster/asru-19-poster.pdf){: .btn}
-
-
-- **Using ASR methods for OCR**  
-	Ashish Arora, Chun Chieh Chang, Babak Rekabdar, Daniel Povey, David Etter, **Desh Raj**, Hossein Hadian, Jan Trmal, Paola Garcia, Shinji Watanabe, Vimal Manohar, Yiwen Shao, Sanjeev Khudanpur.  
-	*International Conference on Document Analysis and Recognition* (ICDAR) 2019.  
-	[PDF](https://www.danielpovey.com/files/2019_icdar_asr_for_ocr.pdf){: .btn}
-	[Code](https://github.com/kaldi-asr/kaldi/tree/master/egs/bentham){: .btn}
-	[Blog]({% post_url 2018-11-22-subword-segmentation %}){: .btn}
+- **Speak With Your Hands - Using Continuous Hand Gestures to control Articulatory Speech Synthesizer**  
+	P. Saha, **D.R. Mohapatra**, S. Fels.
+	*International Seminar on Speech Production* (ISSP) 2020.  
+	[PDF](https://arxiv.org/pdf/2102.01640.pdf){: .btn}
 
 **2019**
 
