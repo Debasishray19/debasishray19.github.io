@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-You can also browse my <a href="https://scholar.google.co.in/citations?user=Z-7pPYEAAAAJ&hl=en" target="_blank">Google Scholar profile</a>.
+You can also browse my <a href="https://scholar.google.com/citations?user=HzIWE5kAAAAJ" target="_blank">Google Scholar profile</a>.
 <br />
 
 **2020**
@@ -15,7 +15,7 @@ You can also browse my <a href="https://scholar.google.co.in/citations?user=Z-7p
 	[Video](https://www.youtube.com/watch?v=BLK8YFNk7is&feature=youtu.be){: .btn}
   	[Slides](https://chimechallenge.github.io/chime2020-workshop/presentations/CHiME_2020_slides_arora.pdf){: .btn}
 
-**2019**
+**2020**
 
 - **Probing the infomation encoded in x-vectors**  
 	**Desh Raj**, David Snyder, Daniel Povey, Sanjeev Khudanpur.  
@@ -32,26 +32,25 @@ You can also browse my <a href="https://scholar.google.co.in/citations?user=Z-7p
 	[Code](https://github.com/kaldi-asr/kaldi/tree/master/egs/bentham){: .btn}
 	[Blog]({% post_url 2018-11-22-subword-segmentation %}){: .btn}
 
+**2019**
+
+- **n Extended Two-Dimensional Vocal Tract Model for Fast Acoustic Simulation of Single-Axis Symmetric Three-Dimensional Tubes**  
+	**D.R. Mohapatra**, V. Zappi, S. Fels.
+	*Interspeech*, 2019.  
+	[PDF](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/1764.pdf){: .btn}
+	[Code](https://github.com/Debasishray19/Talking-Tube){: .btn}
+
 **2018**
 
-- **Uncertain fuzzy self-organization based clustering: interval type-2 approach to adaptive resonance theory**  
-	Shakaiba Majheed, Aditya Gupta, **Desh Raj**, Frank Chung-hoon Rhee.  
-	*Information Sciences*, 2018.  
-	[PDF](https://doi.org/10.1016/j.ins.2017.09.062){: .btn}
+- **Limitations Of Source-Filter Coupling In Phonation**  
+	**D.R. Mohapatra**, S. Fels.
+	*Canadian Acoustics 46(4)*, 2018.  
+	[PDF](https://arxiv.org/pdf/1811.07435.pdf){: .btn}
 
-**2017**
-
-- **Learning local and global contexts using a convolutional recurrent neural network for relation classification in biomedical text**  
-	**Desh Raj**, Sunil Kumar Sahu, Ashish Anand.  
-	*Proceedings of the 21st Conference on Computational Natural Language Learning* (CoNLL) 2017.   
-	[PDF](https://www.aclweb.org/anthology/K17-1032){: .btn}
-	[Poster](/static/poster/conll-17-poster.pdf){: .btn}
-	[Code](https://github.com/desh2608/crnn-relation-classification){: .btn}
-
-- **Analysis of data generated from multidimensional type-1 and type-2 fuzzy membership functions**  
-	**Desh Raj**, Aditya Gupta, Bhuvnesh Garg, Kenil Tanna, Frank Chung-hoon Rhee.  
-	*IEEE Transactions on Fuzzy Systems*, 2017.  
-	[PDF](http://ieeexplore.ieee.org/document/7888454/){: .btn}
+- **Sound-Stream II: Towards Real-Time Gesture-Controlled Articulatory Sound Synthesis**  
+	P. Saha, **D.R. Mohapatra**, P.Srungarapu, S. Fels.
+	*Canadian Acoustics 46(4)*, 2018.  
+	[PDF](https://arxiv.org/pdf/1811.08029.pdf){: .btn}
 
 <br /> 
 
