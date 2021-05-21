@@ -36,7 +36,7 @@ You can also browse my <a href="https://scholar.google.com/citations?user=HzIWE5
 - **Sound-Stream II: Towards Real-Time Gesture-Controlled Articulatory Sound Synthesis**  
 	P. Saha, **D.R. Mohapatra**, P.Srungarapu, S. Fels.
 	*Canadian Acoustics 46(4)*, 2018.  
-	[code](https://arxiv.org/pdf/1811.08029.pdf){: .btn}
+	[pdf](https://arxiv.org/pdf/1811.08029.pdf){: .btn}
 
 <br /> 
 
