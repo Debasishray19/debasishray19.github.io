@@ -11,6 +11,11 @@ You can also check my <a href="https://scholar.google.com/citations?user=HzIWE5k
 	*University of British Columbia* (UBC) 2021.  
 	[pdf](https://open.library.ubc.ca/cIRcle/collections/ubctheses/24/items/1.0396919){: .btn}
 
+**2021**
+- **Vocal tract area function extraction using ultrasound for articulatory speech synthesis**  
+	**D.R. Mohapatra**, P. Saha, Y. Liu, B. Gick, S. Fels.
+	*Speech Synthesis Workshop* (SSW) 2021.  
+	
 **2020**
 - **A comparative study of two-dimensional vocal tract acoustic modeling based on Finite-Difference Time-Domain methods**  
 	**D.R. Mohapatra**, V. Zappi, S. Fels.
