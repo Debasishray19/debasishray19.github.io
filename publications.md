@@ -7,7 +7,7 @@ You can also check my <a href="https://scholar.google.com/citations?user=HzIWE5k
 <br />
 
 **Thesis**
-- **Talking tube : a novel approach for vocal tract acoustic modelling using the finite-difference time-domain method** [[pdf]](https://open.library.ubc.ca/cIRcle/collections/ubctheses/24/items/1.0396919) {: .btn}
+- **Talking tube : a novel approach for vocal tract acoustic modelling using the finite-difference time-domain method** [[pdf]](https://open.library.ubc.ca/cIRcle/collections/ubctheses/24/items/1.0396919)
 	*University of British Columbia* (UBC) 2021.  
 	[pdf](https://open.library.ubc.ca/cIRcle/collections/ubctheses/24/items/1.0396919){: .btn}
 
