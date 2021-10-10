@@ -11,7 +11,7 @@ You can also check my <a href="https://scholar.google.com/citations?user=HzIWE5k
 	*University of British Columbia* (UBC) 2021.  
 	
 **2021**
-- **Vocal tract area function extraction using ultrasound for articulatory speech synthesis**  
+- **Vocal tract area function extraction using ultrasound for articulatory speech synthesis** [[PDF]](https://www.isca-speech.org/archive/pdfs/ssw_2021/mohapatra21_ssw.pdf)  
 	**D.R. Mohapatra**, P. Saha, Y. Liu, B. Gick, S. Fels.
 	*Speech Synthesis Workshop* (SSW) 2021.  
 	
