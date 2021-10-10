@@ -16,25 +16,25 @@ You can also check my <a href="https://scholar.google.com/citations?user=HzIWE5k
 	*Speech Synthesis Workshop* (SSW) 2021.  
 	
 **2020**
-- **A comparative study of two-dimensional vocal tract acoustic modeling based on Finite-Difference Time-Domain methods**  
+- **A comparative study of two-dimensional vocal tract acoustic modeling based on Finite-Difference Time-Domain methods** [[PDF]](https://arxiv.org/pdf/2102.04588.pdf)  
 	**D.R. Mohapatra**, V. Zappi, S. Fels.
 	*International Seminar on Speech Production* (ISSP) 2020.  
 
-- **Speak With Your Hands - Using Continuous Hand Gestures to control Articulatory Speech Synthesizer**  
+- **Speak With Your Hands - Using Continuous Hand Gestures to control Articulatory Speech Synthesizer** [[PDF]](https://arxiv.org/pdf/2102.01640.pdf)  
 	P. Saha, **D.R. Mohapatra**, S. Fels.
 	*International Seminar on Speech Production* (ISSP) 2020.  
 
 **2019**
-- **An Extended Two-Dimensional Vocal Tract Model for Fast Acoustic Simulation of Single-Axis Symmetric Three-Dimensional Tubes**  
+- **An Extended Two-Dimensional Vocal Tract Model for Fast Acoustic Simulation of Single-Axis Symmetric Three-Dimensional Tubes** [[PDF]](https://www.isca-speech.org/archive_v0/Interspeech_2019/pdfs/1764.pdf)  
 	**D.R. Mohapatra**, V. Zappi, S. Fels.
 	*Interspeech*, 2019.  
 	
 **2018**
-- **Limitations Of Source-Filter Coupling In Phonation**  
+- **Limitations Of Source-Filter Coupling In Phonation** [[PDF]](https://arxiv.org/pdf/1811.07435.pdf)  
 	**D.R. Mohapatra**, S. Fels.
 	*Canadian Acoustics 46(4)*, 2018.  
 
-- **Sound-Stream II: Towards Real-Time Gesture-Controlled Articulatory Sound Synthesis**  
+- **Sound-Stream II: Towards Real-Time Gesture-Controlled Articulatory Sound Synthesis** [[PDF]](https://arxiv.org/pdf/1811.08029.pdf)  
 	P. Saha, **D.R. Mohapatra**, P.Srungarapu, S. Fels.
 	*Canadian Acoustics 46(4)*, 2018.  
 
