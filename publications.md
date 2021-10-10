@@ -20,24 +20,23 @@ You can also check my <a href="https://scholar.google.com/citations?user=HzIWE5k
 	**D.R. Mohapatra**, V. Zappi, S. Fels.
 	*International Seminar on Speech Production* (ISSP) 2020.  
 
-- **Speak With Your Hands - Using Continuous Hand Gestures to control Articulatory Speech Synthesizer** [[PDF]](https://arxiv.org/pdf/2102.01640.pdf)  
+- **Speak with your hands - Using continuous hand gestures to control articulatory speech synthesizer** [[PDF]](https://arxiv.org/pdf/2102.01640.pdf)  
 	P. Saha, **D.R. Mohapatra**, S. Fels.
 	*International Seminar on Speech Production* (ISSP) 2020.  
 
 **2019**
-- **An Extended Two-Dimensional Vocal Tract Model for Fast Acoustic Simulation of Single-Axis Symmetric Three-Dimensional Tubes** [[PDF]](https://www.isca-speech.org/archive_v0/Interspeech_2019/pdfs/1764.pdf)  
+- **An extended two-dimensional vocal tract model for fast acoustic simulation of single-axis symmetric three-dimensional tubes** [[PDF]](https://www.isca-speech.org/archive_v0/Interspeech_2019/pdfs/1764.pdf)  
 	**D.R. Mohapatra**, V. Zappi, S. Fels.
 	*Interspeech*, 2019.  
 	
 **2018**
-- **Limitations Of Source-Filter Coupling In Phonation** [[PDF]](https://arxiv.org/pdf/1811.07435.pdf)  
+- **Limitations of source-filter coupling in phonation** [[PDF]](https://arxiv.org/pdf/1811.07435.pdf)  
 	**D.R. Mohapatra**, S. Fels.
 	*Canadian Acoustics 46(4)*, 2018.  
 
-- **Sound-Stream II: Towards Real-Time Gesture-Controlled Articulatory Sound Synthesis** [[PDF]](https://arxiv.org/pdf/1811.08029.pdf)  
+- **Sound-Stream II: Towards real-time gesture-controlled articulatory sound synthesis** [[PDF]](https://arxiv.org/pdf/1811.08029.pdf)  
 	P. Saha, **D.R. Mohapatra**, P.Srungarapu, S. Fels.
 	*Canadian Acoustics 46(4)*, 2018.  
-
-<br /> 
+<br/> 
 
 
