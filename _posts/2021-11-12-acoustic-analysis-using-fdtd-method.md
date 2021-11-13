@@ -7,11 +7,10 @@ mathjax: true
 
 The traditional finite difference time domain (FDTD) method has been used for modelling computational electrodynamics (i.e., finding approximate solutions to Maxwell's equations). The method uses staggered Yee grids (named after the applied mathematician [Kane S. Yee](https://en.wikipedia.org/wiki/Kane_S._Yee)[1]) to discretize the electric and magnetic field components in space and time. It then employs the finite-difference operator to numerically solve these field components for every grid cell at each step. This approach can also be extended to solve problems in other domains. Here, we will discuss the implementation of the FDTD scheme to approximate acoustic wave propagation in an open space.
 
-*****
-## References
+
+### References
 [1] Yee, K. (1966). Numerical solution of initial boundary value problems involving Maxwell's equations in isotropic media. IEEE Transactions on antennas and propagation, 14(3), 302-307.
 
-*****
 
 ### [BLEU (Bilingual Evaluation Understudy)](http://aclweb.org/anthology/P/P02/P02-1040.pdf)
 
