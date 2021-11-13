@@ -5,10 +5,7 @@ tags: ["computational acoustic","finite difference time domain method","FDTD"]
 mathjax: true
 ---
 
-The traditional finite difference time domain (FDTD) method has been used for modelling computational electrodynamics (i.e., finding approximate solutions to Maxwell's equations). The method uses staggered Yee grids (named after the applied mathematician [Kane S. Yee](https://en.wikipedia.org/wiki/Kane_S._Yee)[1]) to discretize the electric and magnetic field components in space and time. The method then employs the finite-difference operator to solve these field components numerically.
-
-Evaluating natural language generation systems is a much more complex task, however. And for this reason, a number of different metrics have been proposed for tasks such as machine translation or summarization. In this blog, I describe 3 major schemes, namely BLEU, ROUGE, and METEOR.
-
+The traditional finite difference time domain (FDTD) method has been used for modelling computational electrodynamics (i.e., finding approximate solutions to Maxwell's equations). The method uses staggered Yee grids (named after the applied mathematician [Kane S. Yee](https://en.wikipedia.org/wiki/Kane_S._Yee)[1]) to discretize the electric and magnetic field components in space and time. It then employs the finite-difference operator to numerically solve these field components for every grid cell at each step. This approach can be extended to solve problems in other domains. Here, we will discuss the implementation of the FDTD scheme to approximate acoustic wave propagation in an open space.
 *****
 ## References
 [1] Yee, K. (1966). Numerical solution of initial boundary value problems involving Maxwell's equations in isotropic media. IEEE Transactions on antennas and propagation, 14(3), 302-307.
