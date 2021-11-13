@@ -1,25 +1,17 @@
 ---
 layout: post
-title: Acoustic analysis using the finite difference time domian method
-tags: ["computational acoustic","finite difference time domain method","2D FDTD"]
+title: Acoustic analysis using the finite difference time domain method
+tags: ["computational acoustic","finite difference time domain method","FDTD"]
 mathjax: true
 ---
 
-Simple natural language processing tasks such as sentiment analysis, or even more complex ones like semantic parsing are easy to evaluate since the evaluation simply requires label matching. As such, metrics like F-score (which is the harmonic mean of precision and recall), or even accuracy in uniformly distributed data, are used for such tasks.
+The traditional finite difference time domain (FDTD) method has been used for modelling computational electrodynamics (i.e., finding approximate solutions to Maxwell's equations). The method uses staggered Yee grids (named after the applied mathematician [Kane S. Yee](https://en.wikipedia.org/wiki/Kane_S._Yee)[1]) to discretize the electric and magnetic field components in space and time. The method then employs the finite-difference operator to solve these field components numerically.
 
 Evaluating natural language generation systems is a much more complex task, however. And for this reason, a number of different metrics have been proposed for tasks such as machine translation or summarization. In this blog, I describe 3 major schemes, namely BLEU, ROUGE, and METEOR.
 
 *****
-
-The intuition for evaluating generated text is the same as that for evaluating labels. If *candidate* text A is a closer match to one of the *reference* texts than candidate text B, then we want to score A higher than B. As in other schemes, this matching is based on precision (specificity) and recall (sensitivity). To put it simply, A is more precise than B if the % of A that matches a reference text is higher than B. A’s recall is higher if it contains more matching text from a reference than B. For example:
-
-> Reference: I work on machine learning.
-
-> Candidate A: I work.
-
-> Candidate B: He works on machine learning.
-
-In this toy example, A’s precision is higher than B (100% vs. 60%), but B’s recall is higher (60% vs. 40%). Note that in this example, we perform the matching simply using unigrams, which may not always be the case. In fact, this choice of features for computing precision and recall is essentially what differentiates the 3 schemes for NLG evaluation.
+## References
+[1] Yee, K. (1966). Numerical solution of initial boundary value problems involving Maxwell's equations in isotropic media. IEEE Transactions on antennas and propagation, 14(3), 302-307.
 
 *****
 
