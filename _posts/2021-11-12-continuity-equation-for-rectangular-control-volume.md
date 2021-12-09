@@ -32,7 +32,7 @@ $$ \text{Q} = \frac{dV}{dt} = u.A = \text{volumetric flow rate or volume velocit
 **Derivation**
 
 According to the law of mass conservation,<br/>
-rate of mass chnage within the control space = rate of mass flow into the tube - rate of mass flow out of the tube
+rate of mass change within the control space = mass flow rate into the space - mass flow rate out of the space, i.e.,
 
 $$ \frac{dm}{dt} =  \dot{m}_{in} - \dot{m}_{out} $$
 
