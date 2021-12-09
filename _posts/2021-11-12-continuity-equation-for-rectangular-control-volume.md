@@ -14,8 +14,9 @@ The continuity equation states the conservation of mass in continuum mechanics a
 
 **Parameters**:
 
-$$\dot{m_1} = rate of mass flow in to the control space$$
-$$\dot{m_2} = rate of mass flow out of the control space$$
+$$ \dot{m_1} = \text{rate of mass flow in to the control space} $$
+
+$$ \dot{m_2} = \text{rate of mass flow out of the control space} $$
 
 ### References
 [1] Yee, K. (1966). Numerical solution of initial boundary value problems involving Maxwell's equations in isotropic media. IEEE Transactions on antennas and propagation, 14(3), 302-307.
