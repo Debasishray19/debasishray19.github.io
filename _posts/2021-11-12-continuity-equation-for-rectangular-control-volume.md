@@ -36,7 +36,7 @@ rate of mass change within the control space = mass flow rate into the space - m
 
 $$ 
 \begin{align*}
-\frac{dm}{dt} &=  \dot{m}_{in} - \dot{m}_{out} \\
+\frac{\partial m}{\partial t} &=  \dot{m}_{in} - \dot{m}_{out} \\
 
 &= (\rho Q_x + \rho Q_y + \rho Q_z) - (\rho Q_{x+\Delta{x}} + \rho Q_{y+\Delta{y}} + \rho Q_{z+\Delta{z}})
 \end{align*}
@@ -48,7 +48,7 @@ $$
 \begin{align*}
 \text{mass} &= \text{density} \times \text{volume} \\
 
-m &= \rho dx dy dz
+m &= \rho \partial x \partial y \partial z
 \end{align*}
 $$
 
@@ -56,11 +56,11 @@ if we replace fliud mass in the main equation, one obtains
 
 $$
 \begin{align*}
-\frac{d(\rho dx dy dz)}{dt} &= (\rho u_x dy dz + \rho u_y dx dz + \rho u_z dx dy) - (\rho u_{x+\Delta{x}} dy dz + \rho u_{y+\Delta{y}} dx dz + \rho u_{z+\Delta{z}} dx dy) \\
+\frac{\partial (\rho \partial x \partial y \partial z)}{\partial t} &= (\rho u_x \partial y \partial z + \rho u_y \partial x \partial z + \rho u_z \partial x \partial y) - (\rho u_{x+\Delta{x}} \partial y \partial z + \rho u_{y+\Delta{y}} \partial x \partial z + \rho u_{z+\Delta{z}} \partial x \partial y) \\
 
-\frac{d \rho}{dt} &= \frac{\rho u_x - \rho u_{x+\Delta{x}}}{dx} + \frac{\rho u_y - \rho u_{y+\Delta{y}}}{dy} + \frac{\rho u_z - \rho u_{z+\Delta{z}}}{dz} \\
+\frac{\partial  \rho}{\partial t} &= \frac{\rho u_x - \rho u_{x+\Delta{x}}}{\partial x} + \frac{\rho u_y - \rho u_{y+\Delta{y}}}{\partial y} + \frac{\rho u_z - \rho u_{z+\Delta{z}}}{\partial z} \\
 
-\frac{d \rho}{dt} &= - \frac{d(\rho u_x)}{dt} - \frac{d(\rho u_y)}{dt} - \frac{d(\rho u_z)}{dt}
+\frac{\partial  \rho}{\partial t} &= - \frac{\partial (\rho u_x)}{\partial t} - \frac{\partial (\rho u_y)}{\partial t} - \frac{\partial (\rho u_z)}{\partial t}
 \end{align*}
 $$
 
