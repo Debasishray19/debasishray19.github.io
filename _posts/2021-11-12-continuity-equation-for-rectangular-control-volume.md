@@ -27,7 +27,7 @@ $$u_x, u_y, u_z = \text{particle velocity along the x, y and z directions respec
 
 $$ A = \text{surface area of the control space}$$
 
-$$ \text{Q} = \frac{dV}{dt} = u.A = \text{volumetric flow rate or volume velocity}$$
+$$ \text{Q} = \frac{\partial V}{\partial t} = u.A = \text{volumetric flow rate or volume velocity}$$
 
 **Derivation**:
 
@@ -42,13 +42,24 @@ $$
 \end{align*}
 $$
 
-The fluid mass in the control space can be defined as,
+The fluid mass in the control space can be defined as follows,
 
 $$ 
 \begin{align*}
 \text{mass} &= \text{density} \times \text{volume} \\
 
 m &= \rho dx dy dz
+\end{align*}
+$$
+
+if we replace fliud mass in the main equation, one obtains
+$$
+\begin{align*}
+\frac{d(\rho dx dy dz)}{dt} &= (\rho u_x dy dz + \rho u_y dx dz + \rho u_z dx dy) - (\rho u_{x+\Delta{x}} dy dz + \rho u_{y+\Delta{y}} dx dz + \rho u_{z+\Delta{z}} dx dy) \\
+
+\frac{d \rho}{dt} &= \frac{\rho u_x - \rho u_{x+\Delta{x}}}{dx} + \frac{\rho u_y - \rho u_{y+\Delta{y}}}{dy} + \frac{\rho u_z - \rho u_{z+\Delta{z}}}{dz} \\
+
+\frac{d \rho}{dt} &= - \frac{d(\rho u_x)}{dt} - \frac{d(\rho u_y)}{dt} - \frac{d(\rho u_z)}{dt}
 \end{align*}
 $$
 
