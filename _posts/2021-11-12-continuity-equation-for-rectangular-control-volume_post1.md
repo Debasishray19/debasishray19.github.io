@@ -69,6 +69,6 @@ Rearranging the above equation gives,
 
 > $$ \frac{\partial  \rho}{\partial t} + \frac{\partial (\rho u_x)}{\partial t} + \frac{\partial (\rho u_y)}{\partial t} + \frac{\partial (\rho u_z)}{\partial t} = 0 $$
 
-> $$ \frac{\partial  \rho}{\partial t} + \nabla \dot (\rho u) = 0 $$ 
+> $$ \frac{\partial  \rho}{\partial t} + \nabla . (\rho u) = 0 $$ 
 
 These are the complete and most general forms of the continuity equation that enforces conservation of mass. It applies to all materials.
