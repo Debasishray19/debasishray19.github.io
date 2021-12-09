@@ -5,7 +5,7 @@ tags: ["computational acoustic","fluid dynamics","continuity equation"]
 mathjax: true
 ---
 
-**Credit**: This post aims to document the derivation of the continuity equation in fluid dynamics for my record. It is the text version of the following [https://www.youtube.com/watch?v=Ls5HS2MLXpg](YouTube video).  Please watch the video to gain a greater understanding.
+**Credit**: This post aims to document the derivation of the continuity equation in fluid dynamics for my record. It is the text version of the following [YouTube video](https://www.youtube.com/watch?v=Ls5HS2MLXpg).  Please watch the video to gain a greater understanding.
 
 
 **Continuity Equation**: 
