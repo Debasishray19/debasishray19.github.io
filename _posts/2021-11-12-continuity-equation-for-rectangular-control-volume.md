@@ -36,7 +36,7 @@ rate of mass change within the control space = mass flow rate into the space - m
 
 $$ 
 \begin{align*}
-\frac{dm}{dt} =  \dot{m}_{in} - \dot{m}_{out} \\
+\frac{dm}{dt} &=  \dot{m}_{in} - \dot{m}_{out} \\
 
 &= (\rho Q_x + \rho Q_y + \rho Q_z) - (\rho Q_{x+\Delta{x}} + \rho Q_{y+\Delta{y}} + \rho Q_{z+\Delta{z}})
 \end{align*}
