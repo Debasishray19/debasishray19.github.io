@@ -10,11 +10,12 @@ mathjax: true
 
 **Continuity Equation**: 
 
-The continuity equation states the conservation of mass in continuum mechanics analysis. The equation can be derived by considering the fluid mass flow rate in and out of an infinitesimally small controlled space/volume and the rate of change of the fluid mass inside the controlled space. Here, we assume a rectangular control space. But this can be extended for other geometries.
+The continuity equation states the conservation of mass in continuum mechanics analysis. The equation can be derived by considering the fluid mass flow rate in and out of an infinitesimally small controlled space (volume) and the rate of change of the fluid mass inside the controlled space. Here, we assume a rectangular control space. But this can be extended for other geometries.
 
 **Parameters**:
 
-
+$$\dot{m_1} = rate of mass flow in to the control space$$
+$$\dot{m_2} = rate of mass flow out of the control space$$
 
 ### References
 [1] Yee, K. (1966). Numerical solution of initial boundary value problems involving Maxwell's equations in isotropic media. IEEE Transactions on antennas and propagation, 14(3), 302-307.
