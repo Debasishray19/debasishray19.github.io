@@ -15,15 +15,14 @@ The continuity equation states the conservation of mass in continuum mechanics a
 **Parameters**:
 hey
 
-$$ \dot{m_1} = \text{rate of mass flow into the control space} $$ 
-
+$$ \dot{m_1} = \text{rate of mass flow into the control space} $$ <br/> 
 $$ \dot{m_2} = \text{rate of mass flow out of the control space} $$
 
 $$ \rho = \text{density of the fluid} $$
 
 $$ u = \text{flow velocity or particle velocity}$$
 
-$$u_x, u_y, u_z = \text{particle velocity along x, y and z direction respectively}$$
+$$u_x, u_y, u_z = \text{particle velocity along the x, y and z directions respectively}$$
 
 $$ A = \text{surface area of the control space}$$
 
