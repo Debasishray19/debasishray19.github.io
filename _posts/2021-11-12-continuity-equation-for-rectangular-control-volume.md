@@ -53,6 +53,7 @@ m &= \rho dx dy dz
 $$
 
 if we replace fliud mass in the main equation, one obtains
+
 $$
 \begin{align*}
 \frac{d(\rho dx dy dz)}{dt} &= (\rho u_x dy dz + \rho u_y dx dz + \rho u_z dx dy) - (\rho u_{x+\Delta{x}} dy dz + \rho u_{y+\Delta{y}} dx dz + \rho u_{z+\Delta{z}} dx dy) \\
