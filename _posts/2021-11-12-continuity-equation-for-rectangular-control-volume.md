@@ -15,8 +15,9 @@ The continuity equation states the conservation of mass in continuum mechanics a
 **Parameters**:
 hey
 
-$$ \dot{m_1} = \text{rate of mass flow into the control space} $$ <br/> 
-$$ \dot{m_2} = \text{rate of mass flow out of the control space} $$
+$$ \dot{m_{in}} = \text{rate of mass flow into the control space} $$<br/>
+
+$$ \dot{m_{out}} = \text{rate of mass flow out of the control space} $$
 
 $$ \rho = \text{density of the fluid} $$
 
@@ -27,6 +28,13 @@ $$u_x, u_y, u_z = \text{particle velocity along the x, y and z directions respec
 $$ A = \text{surface area of the control space}$$
 
 $$ \text{Q} = \frac{dV}{dt} = u.A = \text{volumetric flow rate or volume velocity}$$
+
+**Derivation**
+
+According to the law of mass conservation,<br/>
+rate of mass chnage within the control space = rate of mass flow into the tube - rate of mass flow out of the tube
+
+$$ \frac{dm}{dt} =  \dot{m_{in}} - \dot{m_{out}} $$
 
 ### References
 [1] Yee, K. (1966). Numerical solution of initial boundary value problems involving Maxwell's equations in isotropic media. IEEE Transactions on antennas and propagation, 14(3), 302-307.
