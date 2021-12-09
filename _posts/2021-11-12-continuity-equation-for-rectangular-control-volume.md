@@ -5,7 +5,7 @@ tags: ["computational acoustic","fluid dynamics","continuity equation"]
 mathjax: true
 ---
 
-**Credit**: This post aims to document the derivation of the continuity equation in fluid dynamics for my record. It is the text version of the following [YouTube video](https://www.youtube.com/watch?v=Ls5HS2MLXpg).  Please watch the video to gain a greater understanding.
+**Credit**: This post aims to document the derivation of the continuity equation in fluid dynamics. It is motivated from the following [YouTube video](https://www.youtube.com/watch?v=Ls5HS2MLXpg).  Please watch the video to gain a greater understanding.
 
 
 **Continuity Equation**: 
@@ -13,9 +13,9 @@ mathjax: true
 The continuity equation states the conservation of mass in continuum mechanics analysis. The equation can be derived by considering the fluid mass flow rate in and out of an infinitesimally small controlled space (volume) and the rate of change of the fluid mass inside the controlled space. Here, we assume a rectangular control space. But this can be extended for other geometries.
 
 **Parameters**:
+hey
 
-$$ \dot{m_1} = \text{rate of mass flow in to the control space} $$
-
+$$ \dot{m_1} = \text{rate of mass flow into the control space} $$<br/>
 $$ \dot{m_2} = \text{rate of mass flow out of the control space} $$
 
 ### References
