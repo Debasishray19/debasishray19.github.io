@@ -29,7 +29,7 @@ $$ A = \text{surface area of the control space}$$
 
 $$ \text{Q} = \frac{dV}{dt} = u.A = \text{volumetric flow rate or volume velocity}$$
 
-**Derivation**
+**Derivation**:
 
 According to the law of conservation of mass,<br/>
 rate of mass change within the control space = mass flow rate into the space - mass flow rate out of the space, i.e.,
@@ -48,7 +48,7 @@ $$
 \begin{align*}
 \text{mass} &= \text{density} \times \text{volume} \\
 
-&= \rho dx dy dz
+m &= \rho dx dy dz
 \end{align*}
 $$
 
