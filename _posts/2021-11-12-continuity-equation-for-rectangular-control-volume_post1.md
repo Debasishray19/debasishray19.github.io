@@ -12,7 +12,7 @@ mathjax: true
 
 The continuity equation states the conservation of mass in continuum mechanics analysis. The equation can be derived by considering the fluid mass flow rate in and out of an infinitesimally small controlled space (volume) and the rate of change of the fluid mass inside the controlled space. Here, we assume a rectangular control space. But this can be extended for other geometries.
 
-![[check](/static/img/blogimg/post1/_post1_img1.PNG)](/static/img/blogimg/post1/_post1_img1.PNG)
+![](/static/img/blogimg/post1/geometry.jpg)
 
 **Parameters**:
 
