@@ -15,8 +15,19 @@ The continuity equation states the conservation of mass in continuum mechanics a
 **Parameters**:
 hey
 
-$$ \dot{m_1} = \text{rate of mass flow into the control space} $$<br/>
+$$ \dot{m_1} = \text{rate of mass flow into the control space} $$ 
+
 $$ \dot{m_2} = \text{rate of mass flow out of the control space} $$
+
+$$ \rho = \text{density of the fluid} $$
+
+$$ u = \text{flow velocity or particle velocity}$$
+
+$$u_x, u_y, u_z = \text{particle velocity along x, y and z direction respectively}$$
+
+$$ A = \text{surface area of the control space}$$
+
+$$ \text{Q} = \frac{dV}{dt} = u.A = \text{volumetric flow rate or volume velocity}$$
 
 ### References
 [1] Yee, K. (1966). Numerical solution of initial boundary value problems involving Maxwell's equations in isotropic media. IEEE Transactions on antennas and propagation, 14(3), 302-307.
