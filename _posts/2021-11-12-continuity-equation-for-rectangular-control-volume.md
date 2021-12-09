@@ -52,6 +52,7 @@ m &= \rho dx dy dz
 \end{align*}
 $$
 
+
 ### References
 [1] Yee, K. (1966). Numerical solution of initial boundary value problems involving Maxwell's equations in isotropic media. IEEE Transactions on antennas and propagation, 14(3), 302-307.
 
