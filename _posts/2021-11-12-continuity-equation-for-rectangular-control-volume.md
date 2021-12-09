@@ -34,9 +34,13 @@ $$ \text{Q} = \frac{dV}{dt} = u.A = \text{volumetric flow rate or volume velocit
 According to the law of conservation of mass,<br/>
 rate of mass change within the control space = mass flow rate into the space - mass flow rate out of the space, i.e.,
 
-$$ \frac{dm}{dt} =  \dot{m}_{in} - \dot{m}_{out}\
+$$ 
+\begin{align*}
+\frac{dm}{dt} =  \dot{m}_{in} - \dot{m}_{out} \\
 
-&= (\rho Q_x + \rho Q_y + \rho Q_z) - (\rho Q_{x+\Delta{x}} + \rho Q_{y+\Delta{y}} + \rho Q_{z+\Delta{z}})$$
+&= (\rho Q_x + \rho Q_y + \rho Q_z) - (\rho Q_{x+\Delta{x}} + \rho Q_{y+\Delta{y}} + \rho Q_{z+\Delta{z}})
+\end{align*}
+$$
 
 ### References
 [1] Yee, K. (1966). Numerical solution of initial boundary value problems involving Maxwell's equations in isotropic media. IEEE Transactions on antennas and propagation, 14(3), 302-307.
