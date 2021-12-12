@@ -61,13 +61,13 @@ $$
 
 \frac{\partial  \rho}{\partial t} &= \frac{\rho u_x - \rho u_{x+\Delta{x}}}{\partial x} + \frac{\rho u_y - \rho u_{y+\Delta{y}}}{\partial y} + \frac{\rho u_z - \rho u_{z+\Delta{z}}}{\partial z} \\
 
-\frac{\partial  \rho}{\partial t} &= - \frac{\partial (\rho u_x)}{\partial t} - \frac{\partial (\rho u_y)}{\partial t} - \frac{\partial (\rho u_z)}{\partial t}
+\frac{\partial  \rho}{\partial t} &= - \frac{\partial (\rho u_x)}{\partial x} - \frac{\partial (\rho u_y)}{\partial y} - \frac{\partial (\rho u_z)}{\partial z}
 \end{align*}
 $$
 
 Rearranging the above equation gives,
 
-> $$ \frac{\partial  \rho}{\partial t} + \frac{\partial (\rho u_x)}{\partial t} + \frac{\partial (\rho u_y)}{\partial t} + \frac{\partial (\rho u_z)}{\partial t} = 0 $$
+> $$ \frac{\partial  \rho}{\partial t} + \frac{\partial (\rho u_x)}{\partial x} + \frac{\partial (\rho u_y)}{\partial y} + \frac{\partial (\rho u_z)}{\partial z} = 0 $$
 
 > $$ \frac{\partial  \rho}{\partial t} + \nabla . (\rho u) = 0 $$ 
 
