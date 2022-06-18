@@ -55,7 +55,7 @@ To know more about Oriya/Odia language, check [Wikipedia](https://en.wikipedia.o
 ହେଲେ ପଛେ ଛାଡିଯାଏ<br>
 ଶୂନ୍ୟତା-ପ୍ରଶ୍ନମାଳ-ସମ୍ଭାବ୍ୟ ଉତ୍ତର ।<br>
 
-କେବଳ ଆହୁ ଏକ <br>
+କେବଳ ଆଉ ଏକ <br>
 ରାତିର ପ୍ରତିକ୍ଷାରେ…<br>
 
 **Ahsa (ଆଶା)**
