@@ -6,6 +6,10 @@ title: Publications
 You can also check my <a href="https://scholar.google.com/citations?user=HzIWE5kAAAAJ" target="_blank">Google Scholar</a> profile.
 <br />
 
+***A = Abstracts***
+<br/>***C = Peer-reviewed conference proceedings***
+<br/>***J = Peer-reviewed journal articles***
+
 **Thesis**
 - **[M.A.Sc. Thesis] Talking tube : A novel approach for vocal tract acoustic modelling using the finite-difference time-domain method** [[PDF]](https://open.library.ubc.ca/cIRcle/collections/ubctheses/24/items/1.0396919)\
 	*University of British Columbia* (UBC) 2021.  
