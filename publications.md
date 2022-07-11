@@ -31,16 +31,16 @@ You can also check my <a href="https://scholar.google.com/citations?user=HzIWE5k
 **2019**
 - **[C3] An extended two-dimensional vocal tract model for fast acoustic simulation of single-axis symmetric three-dimensional tubes** [[PDF]](https://www.isca-speech.org/archive_v0/Interspeech_2019/pdfs/1764.pdf)  
 	**D.R. Mohapatra**, V. Zappi, S. Fels.
-	*Interspeech*, 2019, pp. 3760-64.  
+	*Proceedings of Interspeech*, (INTERSPEECH) 2019, pp. 3760-64.  
 	
 **2018**
 - **[C2] Limitations of source-filter coupling in phonation** [[PDF]](https://arxiv.org/pdf/1811.07435.pdf)  
 	**D.R. Mohapatra**, S. Fels.
-	*Canadian Acoustics 46(4)*, 2018, pp. 60-61.  
+	*Canadian Acoustics 46(4)*, (AWC) 2018, pp. 60-61.  
 
 - **[C1] Sound-Stream II: Towards real-time gesture-controlled articulatory sound synthesis** [[PDF]](https://arxiv.org/pdf/1811.08029.pdf)  
 	P. Saha, **D.R. Mohapatra**, P.Srungarapu, S. Fels.
-	*Canadian Acoustics 46(4)*, 2018, pp. 58-59.  
+	*Canadian Acoustics 46(4)*, (AWC) 2018, pp. 58-59.  
 <br/> 
 
 
