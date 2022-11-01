@@ -3,4 +3,4 @@ layout: page
 title: Projects
 ---
 
-1. Talking Tube(2022): A 2D vocal tract physical model
+1. (2022) Talking Tube: A 2D vocal tract physically-based model
