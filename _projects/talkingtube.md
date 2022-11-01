@@ -1,1 +1,1 @@
-hello
+Talking-tube is a physically-based lumped two-dimensional (2D)  vocal tract model. It has acoustic characteristics comparable to a precise three-dimensional (3D) vocal tract model, and it improves the existing 2D vocal tracts to provide better geometrical flexibility at a lower computational overhead.
