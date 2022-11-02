@@ -1,9 +1,12 @@
 #main{
+font-family: 'Lora', 'Times New Roman', serif;
+font-size: 13px;    
 margin:40px auto;
 max-width:650px;
 line-height:1.2;
-font-size:14px;
-color:#444;
+/* font-size:14px; */
+color:#404040;
+background: #FFF;
 padding:0 10px}
 h1,h2,h3{line-height:1.2}
 
