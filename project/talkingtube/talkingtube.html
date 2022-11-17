@@ -13,13 +13,13 @@
 <div id="main">
 <h1>Talking Tube</h1>
   
-<p>Talking Tube is a physics-based lumped two-dimensional (2D) vocal tract model (a.k.a, 2.5D vocal tract model) 
+<p>Talking Tube is a physics-based lumped two-dimensional (2D) vocal tract model (a.k.a, 2.5D vocal tract) 
 having acoustic characteristics comparable to a precise three-dimensional (3D) vocal tract model. 
 It improves the existing 2D vocal tracts to provide better geometrical flexibility at a lower computational overhead.</p>
 
 <h2>Introduction</h2>
 <p>Speech production is a complex but unique physiological process which requires the neuromuscular and biomechanical control of the
-human vocal apparatus (e.g., lips, jaw, tongue, etc.). A possible path to explore these underlying speech production mechanisms is to 
+human vocal apparatus (e.g., lips, jaw, tongue, etc.). A possible path to explore the underlying speech production mechanism is to 
 build an articulatory-acoustic model (i.e., a quantitative computer-implemented emulation of the human speech organs or biomechanical 
 articulatory speech synthesizer - BASS) that can generate acoustic speech signals (Kroger, 2022). Designing such an articulatory-acoustic 
 model as a single unit is highly complex. Hence, it can be modularized into three primary components based on their core functionality.</p>
@@ -27,7 +27,7 @@ model as a single unit is highly complex. Hence, it can be modularized into thre
 <img src="/static/img/project/talking-tube/articulatory_acoustic_pipeline.png" alt="Articulatory-to-Acoustic modelling pipeline" width="600" height="450" class="center"/>
   
 <p>(1) A biomechanical model that generates articulatory kinematic movements from muscle activations and incorporates speech-related constraints.<br>
-(2) A vocal fold model that emulates the movement of vocal cords in the larynx and generates glottal flow as the acoustic source.<br>
+(2) A vocal fold model that emulates the oscillatory movement of vocal cords in the larynx and generates glottal flow as the acoustic source.<br>
 (3) A vocal tract model that synthesizes acoustic speech signals for a specified vocal tract geometry (i.e., the shape of the upper oral cavity).<br><br>
   
 This project primarily focuses on vocal tract acoustic modelling.</p>
