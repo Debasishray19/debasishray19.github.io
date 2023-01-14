@@ -28,7 +28,7 @@ model as a single unit is highly complex. Hence, it can be modularized into thre
   
 <p>(1) A biomechanical model that generates articulatory kinematic movements from muscle activations and incorporates speech-related constraints.<br>
 (2) A vocal fold model that emulates the oscillatory movement of vocal cords in the larynx and generates glottal flow as the acoustic source.<br>
-(3) A vocal tract acoustic model that synthesizes speech sounds for a specified vocal tract geometry (i.e., the shape of the upper oral cavity).<br><br>
+(3) A vocal tract acoustic model that synthesizes speech sounds as per the vocal tract geometry (i.e., the shape of the upper oral cavity).<br><br>
   
 This project primarily focuses on vocal tract acoustic modelling.</p>
   
@@ -41,7 +41,7 @@ that 1D systems can directly simulate are straight cylindrical tubes with circul
 complexity and acoustic characteristic of real vocal tracts at the expense of the computational run-time.</p>
   
 <p>Speech synthesis research has recently explored the usage of  2D acoustic models for pressure propagation, which provides a valuable trade-off between speed 
-and quality. These models are computationally faster than 3D models and can synthesize speech sounds resembling the natural voice. However, the existing 2D models 
+and quality. They are computationally faster than 3D models and can synthesize speech sounds resembling the natural voice. However, the existing 2D models 
 have several limitations, as thoroughly discussed by Arnela and Guasch in the case of vowel synthesis. These models produce erroneous formant locations with the 
 direct usage of the vocal tract's area functions extracted from MRIs. Moreover, these models still limit vocal tract geometries to straight tubes with circular 
 cross-sections.</p>
