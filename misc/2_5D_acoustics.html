@@ -1,36 +1,31 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width", initial-scale=1>
-<title>2_5D_Acoustics</title>
-
-<link rel="stylesheet" href="/css/style.css">
-
-</head>
-<body>
-<div id="main">
-<font size="+1"><b>2.5D Acoustics: Bridging Low-Dimensional Efficiency with 3D Accuracy</b><br>Debasish Ray Mohapatra, Victor Zappi, Sidney Fels</font>
-
-<h3> Introduction </h3>
-<p>The 2.5D acoustic wave solver is an expanded two-dimensional model that effectively approximates wave propagation in tube-like geometries through the finite-difference numerical scheme. It seamlessly combines the computational efficiency characteristic of low-dimensional models with the precision associated with three-dimensional methods. Unlike one- and two-dimensional models, which are confined to radial symmetry, our lightweight 2.5D solver adeptly accommodates irregular geometries, guided solely by mid-sagittal symmetry.</p>
-<p>Below, we showcase the geometries of three virtual bores and present the corresponding audio samples synthesized using the 2.5D solver. The audio samples have a consistent pitch (approximately 261Hz) but different timbral signatures.</p>
+  <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width", initial-scale=1>
+  <title>2_5D_Acoustics</title>
+  <link rel="stylesheet" href="/css/style.css">
+  </head>
   
-<h3>Examples</h2>
-<p><bold> Bore Geometry 1</bold>bold></p>
-<img src="/static/img/icassp24/Geometry1.png" alt="geometry1" width="400" height="250" class="center"/>
-  
-<audio controls>
-  <source src="/static/audio/icassp/geometry1.wav">
-  browser does not support the audio element
-</audio>
-<h2>Geometry2</h2>
+  <body>
+    <div id="main">
+    <font size="+1"><b>2.5D Acoustics: Bridging Low-Dimensional Efficiency with 3D Accuracy</b><br>Debasish Ray Mohapatra, Victor Zappi, Sidney Fels</font>
+    
+    <h3> Introduction </h3>
+    <p>The 2.5D acoustic wave solver is an expanded two-dimensional model that effectively approximates wave propagation in tube-like geometries through the finite-difference numerical scheme. It seamlessly combines the computational efficiency characteristic of low-dimensional models with the precision associated with three-dimensional methods. Unlike one- and two-dimensional models, which are confined to radial symmetry, our lightweight 2.5D solver adeptly accommodates irregular geometries, guided solely by mid-sagittal symmetry.</p>
+    <p>Below, we showcase the geometries of three virtual bores and present the corresponding audio samples synthesized using the 2.5D solver. The audio samples have a consistent pitch (approximately 261Hz) but different timbral signatures.</p>
+      
+    <h3>Examples</h2>
+    <p><bold> Bore Geometry 1</bold></p>
+    <img src="/static/img/icassp24/Geometry1.png" alt="geometry1" width="400" height="230" class="center"/>
+      
+    <p><bold> Audio Sample</bold></p>  
+    <audio controls>
+      <source src="/static/audio/icassp/geometry1.wav">
+      browser does not support the audio element
+    </audio>
 
-<h2>Geometry3</h2>
-
-
-
-</div>
-</body>
+    
+    </div>
+  </body>
 </html>
