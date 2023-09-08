@@ -13,6 +13,11 @@ title: Publications
 	*University of British Columbia* (UBC) 2021.  
 	
 **Peer-Reviewed Conferences**
+
+- **Three-dimensional finite-difference time-domain acoustic analysis of simplified vocal tract shapes** [[PDF]](https://www.vocaltractlab.de/publications/mohapatra-2022-interspeech.pdf)  
+	**D.R. Mohapatra**, M. Fleischer, V. Zappi, P. Birkholz, S. Fels.
+	*Proceedings of Interspeech*, (INTERSPEECH) 2022, pp. 764-768.
+  
 - **Vocal tract area function extraction using ultrasound for articulatory speech synthesis** [[PDF]](https://www.isca-speech.org/archive/pdfs/ssw_2021/mohapatra21_ssw.pdf)  
 	**D.R. Mohapatra**, P. Saha, Y. Liu, B. Gick, S. Fels.
 	*Speech Synthesis Workshop* (SSW) 2021, pp. 90-95.  
