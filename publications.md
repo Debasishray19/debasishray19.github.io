@@ -26,7 +26,7 @@ title: Publications
 	**D.R. Mohapatra**, V. Zappi, S. Fels.
 	*International Seminar on Speech Production* (ISSP) 2020, pp. 154-157.
   
-- **An extended two-dimensional vocal tract model for fast acoustic simulation of single-axis symmetric three-dimensional tubes** [[PDF]](https://www.isca-speech.org/archive_v0/Interspeech_2019/pdfs/1764.pdf)  
+- **An extended two-dimensional vocal tract model for fast acoustic simulation of single-axis symmetric three-dimensional tubes** [[PDF]](https://www.isca-speech.org/archive/pdfs/interspeech_2019/mohapatra19_interspeech.pdf)  
 	**D.R. Mohapatra**, V. Zappi, S. Fels.
 	*Proceedings of Interspeech*, (INTERSPEECH) 2019, pp. 3760-64.
   
@@ -39,7 +39,7 @@ title: Publications
 	*Canadian Acoustics 46(4)*, (AWC) 2018, pp. 58-59.  
 
 **Abstracts**
-- **[A1] Speak with your hands - Using continuous hand gestures to control articulatory speech synthesizer** [[PDF]](https://arxiv.org/pdf/2102.01640.pdf)  
+- **Speak with your hands - Using continuous hand gestures to control articulatory speech synthesizer** [[PDF]](https://arxiv.org/pdf/2102.01640.pdf)  
 	P. Saha, **D.R. Mohapatra**, S. Fels.
 	*International Seminar on Speech Production* (ISSP) 2020.  
 
