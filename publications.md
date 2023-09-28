@@ -9,7 +9,7 @@ title: Publications
 
 
 **Thesis/Proposal**
-- **[Ph.D. Proposal] 2.5D Acoustics: A physics-based lumped wave solver for acoustic analysis of static vocal tract shapes** [[PDF]]([https://open.library.ubc.ca/cIRcle/collections/ubctheses/24/items/1.0396919](https://www.dropbox.com/scl/fi/7loyrv58t0mxt5c6r1jwu/mohapatra_2023_phd_proposal.pdf?rlkey=0st0zo0apmm6bpxeansbolb0t&dl=0))\
+- **[Ph.D. Proposal] 2.5D Acoustics: A physics-based lumped wave solver for acoustic analysis of static vocal tract shapes** [[PDF]](https://www.dropbox.com/scl/fi/7loyrv58t0mxt5c6r1jwu/mohapatra_2023_phd_proposal.pdf?rlkey=0st0zo0apmm6bpxeansbolb0t&dl=0)\
 	*University of British Columbia* (UBC) 2023. 
 - **[M.A.Sc. Thesis] Talking Tube: A novel approach for vocal tract acoustic modelling using the finite-difference time-domain method** [[PDF]](https://open.library.ubc.ca/cIRcle/collections/ubctheses/24/items/1.0396919)\
 	*University of British Columbia* (UBC) 2021.  
