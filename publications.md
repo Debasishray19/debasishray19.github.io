@@ -3,10 +3,9 @@ layout: page
 title: Publications
 ---
 
-<a href="https://scholar.google.com/citations?user=HzIWE5kAAAAJ" target="_blank">Google Scholar</a> profile.
+<a href="https://scholar.google.com/citations?user=HzIWE5kAAAAJ" target="_blank">Google Scholar</a> profile.<br />
+<a href="https://www.researchgate.net/profile/Debasish-Mohapatra-4" target="_blank">ResearchGate</a> profile.
 <br />
-
-
 
 **Thesis/Proposal**
 - **[Ph.D. Proposal] 2.5D Acoustics: A physics-based lumped wave solver for acoustic analysis of static vocal tract shapes** [[PDF]](https://www.dropbox.com/scl/fi/7loyrv58t0mxt5c6r1jwu/mohapatra_2023_phd_proposal.pdf?rlkey=0st0zo0apmm6bpxeansbolb0t&dl=0)\
