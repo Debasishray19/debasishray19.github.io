@@ -32,11 +32,11 @@ title: Publications
 	**D.R. Mohapatra**, V. Zappi, S. Fels.
 	*Proceedings of Interspeech*, (INTERSPEECH) 2019, pp. 3760-64.
   
-- **Limitations of source-filter coupling in phonation** [[PDF]](https://arxiv.org/pdf/1811.07435.pdf)  
+- **Limitations of source-filter coupling in phonation** [[PDF]](https://www.dropbox.com/scl/fi/7kt90lwwdnqak928n7mcl/Limitations-of-source-filter-coupling-in-phonation.pdf?rlkey=hwj4db0co823brtz2nrupui58&dl=0)  
 	**D.R. Mohapatra**, S. Fels.
 	*Canadian Acoustics 46(4)*, (AWC) 2018, pp. 60-61.  
 
-- **Sound-Stream: Towards real-time gesture-controlled articulatory sound synthesis** [[PDF]](https://arxiv.org/pdf/1811.08029.pdf)  
+- **Sound-Stream: Towards real-time gesture-controlled articulatory sound synthesis** [[PDF]](https://www.dropbox.com/scl/fi/vlk4krlaqkm8poxyq2jy5/Sound-Stream-Towards-real-time-gesture-controlled-articulatory-sound-synthesis.pdf?rlkey=82o62gvszbqhp98yxe95p168t&dl=0)  
 	P. Saha, **D.R. Mohapatra**, P.Srungarapu, S. Fels.
 	*Canadian Acoustics 46(4)*, (AWC) 2018, pp. 58-59.  
 
