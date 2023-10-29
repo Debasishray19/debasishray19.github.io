@@ -24,7 +24,7 @@ title: Publications
 	**D.R. Mohapatra**, P. Saha, Y. Liu, B. Gick, S. Fels.
 	*Speech Synthesis Workshop* (SSW) 2021, pp. 90-95.  
 	
-- **A comparative study of two-dimensional vocal tract acoustic modeling based on Finite-Difference Time-Domain methods** [[PDF]](https://arxiv.org/pdf/2102.04588.pdf)  
+- **A comparative study of two-dimensional vocal tract acoustic modeling based on Finite-Difference Time-Domain methods** [[PDF]](https://www.dropbox.com/scl/fi/cu0vtto0w8pmccevc0v1a/ISSP2020.pdf?rlkey=roy23dtbvwqvsbe45k3ltq8cf&dl=0)  
 	**D.R. Mohapatra**, V. Zappi, S. Fels.
 	*International Seminar on Speech Production* (ISSP) 2020, pp. 154-157.
   
