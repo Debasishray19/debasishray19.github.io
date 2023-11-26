@@ -27,19 +27,19 @@ title: Publications
 	Speech Synthesis Workshop (SSW) 2021, pp. 90-95.  
 	
 - **A comparative study of two-dimensional vocal tract acoustic modeling based on Finite-Difference Time-Domain methods** [[PDF]](https://www.dropbox.com/scl/fi/cu0vtto0w8pmccevc0v1a/ISSP2020.pdf?rlkey=roy23dtbvwqvsbe45k3ltq8cf&dl=0)  
-	**D.R. Mohapatra**, V. Zappi, S. Fels<br/>
+	D.R. Mohapatra, V. Zappi, S. Fels<br/>
 	International Seminar on Speech Production (ISSP) 2020, pp. 154-157.
   
 - **An extended two-dimensional vocal tract model for fast acoustic simulation of single-axis symmetric three-dimensional tubes** [[PDF]](https://www.isca-speech.org/archive/pdfs/interspeech_2019/mohapatra19_interspeech.pdf)  
-	**D.R. Mohapatra**, V. Zappi, S. Fels<br/>
+	D.R. Mohapatra, V. Zappi, S. Fels<br/>
 	Proceedings of Interspeech (INTERSPEECH) 2019, pp. 3760-64.
   
 - **Limitations of source-filter coupling in phonation** [[PDF]](https://www.dropbox.com/scl/fi/7kt90lwwdnqak928n7mcl/Limitations-of-source-filter-coupling-in-phonation.pdf?rlkey=hwj4db0co823brtz2nrupui58&dl=0)  
-	**D.R. Mohapatra**, S. Fels<br/>
+	D.R. Mohapatra, S. Fels<br/>
   	Canadian Acoustics (AWC) 2018, pp. 60-61.  
 
 - **Sound-Stream: Towards real-time gesture-controlled articulatory sound synthesis** [[PDF]](https://www.dropbox.com/scl/fi/vlk4krlaqkm8poxyq2jy5/Sound-Stream-Towards-real-time-gesture-controlled-articulatory-sound-synthesis.pdf?rlkey=82o62gvszbqhp98yxe95p168t&dl=0)  
-	P. Saha, **D.R. Mohapatra**, P.Srungarapu, S. Fels<br/>
+	P. Saha, D.R. Mohapatra, P.Srungarapu, S. Fels<br/>
 	Canadian Acoustics (AWC) 2018, pp. 58-59.  
 
 **Abstracts**
