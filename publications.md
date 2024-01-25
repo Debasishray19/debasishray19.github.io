@@ -22,7 +22,7 @@ title: Publications
 	D.R. Mohapatra, M. Fleischer, V. Zappi, P. Birkholz, S. Fels<br/>
 	Proceedings of Interspeech (INTERSPEECH) 2022, pp. 764-768.
   
-- **Vocal tract area function extraction using ultrasound for articulatory speech synthesis** [[PDF]](https://www.isca-speech.org/archive/pdfs/ssw_2021/mohapatra21_ssw.pdf)  
+- **Vocal tract area function extraction using ultrasound for articulatory speech synthesis** [[PDF]](https://www.isca-speech.org/archive/ssw_2021/mohapatra21_ssw.pdf)  
 	D.R. Mohapatra, P. Saha, Y. Liu, B. Gick, S. Fels<br/>
 	Speech Synthesis Workshop (SSW) 2021, pp. 90-95.  
 	
@@ -30,7 +30,7 @@ title: Publications
 	D.R. Mohapatra, V. Zappi, S. Fels<br/>
 	International Seminar on Speech Production (ISSP) 2020, pp. 154-157.
   
-- **An extended two-dimensional vocal tract model for fast acoustic simulation of single-axis symmetric three-dimensional tubes** [[PDF]](https://www.isca-speech.org/archive/pdfs/interspeech_2019/mohapatra19_interspeech.pdf)  
+- **An extended two-dimensional vocal tract model for fast acoustic simulation of single-axis symmetric three-dimensional tubes** [[PDF]](https://www.isca-archive.org/interspeech_2019/mohapatra19_interspeech.pdf)  
 	D.R. Mohapatra, V. Zappi, S. Fels<br/>
 	Proceedings of Interspeech (INTERSPEECH) 2019, pp. 3760-64.
   
