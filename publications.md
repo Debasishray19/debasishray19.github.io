@@ -16,7 +16,7 @@ title: Publications
 	M.A.Sc. Thesis <br/>
   	University of British Columbia (UBC) 2021.  
 	
-**Conferences**
+**Peer-Reviewed Conferences**
 
 - **2.5D Vocal Tract Modeling: Bridging low-dimensional efficiency with 3D accuracy** [[PDF]](https://www.isca-archive.org/interspeech_2024/mohapatra24b_interspeech.pdf)  
 	D.R. Mohapatra, V. Zappi, S. Fels<br/>
@@ -41,19 +41,20 @@ title: Publications
 - **An extended two-dimensional vocal tract model for fast acoustic simulation of single-axis symmetric three-dimensional tubes** [[PDF]](https://www.isca-archive.org/interspeech_2019/mohapatra19_interspeech.pdf)  
 	D.R. Mohapatra, V. Zappi, S. Fels<br/>
 	Proceedings of Interspeech (INTERSPEECH) 2019, pp. 3760-64.
-  
-- **Limitations of source-filter coupling in phonation** [[PDF]](https://www.dropbox.com/scl/fi/7kt90lwwdnqak928n7mcl/Limitations-of-source-filter-coupling-in-phonation.pdf?rlkey=hwj4db0co823brtz2nrupui58&dl=0)  
+   
+
+**Abstracts**
+- **Speak with your hands - Using continuous hand gestures to control articulatory speech synthesizer** [[PDF]](https://arxiv.org/pdf/2102.01640.pdf)  
+	P. Saha, D.R. Mohapatra, S. Fels<br/>
+	International Seminar on Speech Production (ISSP) 2020.
+
+ - **Limitations of source-filter coupling in phonation** [[PDF]](https://www.dropbox.com/scl/fi/7kt90lwwdnqak928n7mcl/Limitations-of-source-filter-coupling-in-phonation.pdf?rlkey=hwj4db0co823brtz2nrupui58&dl=0)  
 	D.R. Mohapatra, S. Fels<br/>
   	Canadian Acoustics (AWC) 2018, pp. 60-61.  
 
 - **Sound-Stream: Towards real-time gesture-controlled articulatory sound synthesis** [[PDF]](https://www.dropbox.com/scl/fi/vlk4krlaqkm8poxyq2jy5/Sound-Stream-Towards-real-time-gesture-controlled-articulatory-sound-synthesis.pdf?rlkey=82o62gvszbqhp98yxe95p168t&dl=0)  
 	P. Saha, D.R. Mohapatra, P.Srungarapu, S. Fels<br/>
-	Canadian Acoustics (AWC) 2018, pp. 58-59.  
-
-**Abstracts**
-- **Speak with your hands - Using continuous hand gestures to control articulatory speech synthesizer** [[PDF]](https://arxiv.org/pdf/2102.01640.pdf)  
-	P. Saha, D.R. Mohapatra, S. Fels<br/>
-	International Seminar on Speech Production (ISSP) 2020.  
+	Canadian Acoustics (AWC) 2018, pp. 58-59. 
 
 <br/> 
 
