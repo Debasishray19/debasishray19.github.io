@@ -43,7 +43,7 @@ title: Publications
 	Proceedings of Interspeech (INTERSPEECH) 2019, pp. 3760-64.
    
 
-**Abstracts**
+**Peer-Reviewed Abstracts**
 - **Speak with your hands - Using continuous hand gestures to control articulatory speech synthesizer** [[PDF]](https://arxiv.org/pdf/2102.01640.pdf)  
 	P. Saha, D.R. Mohapatra, S. Fels<br/>
 	International Seminar on Speech Production (ISSP) 2020.
@@ -56,6 +56,4 @@ title: Publications
 	P. Saha, D.R. Mohapatra, P.Srungarapu, S. Fels<br/>
 	Canadian Acoustics (AWC) 2018, pp. 58-59. 
 
-<br/> 
-
-
+<br/>
