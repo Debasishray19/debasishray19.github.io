@@ -28,7 +28,7 @@ two-dimensional (2D) dynamic vocal tract model that employs the Immersed Boundar
 Speech production involves continuous movement of articulators—such as the jaw, lips, and tongue—to shape the vocal tract 
 geometry/area functions (as shown below) and produce sound. Accurately capturing these dynamic changes is particularly important 
 for modeling diphthongs, which require smooth interpolation between distinct vowel configurations. Although high-fidelity 
-Finite Element (FE) models are capable of simulating these transitions with great precision, their high computational cost 
+Finite Element (FE) models (Arnela et al., 2019) are capable of simulating these transitions with great precision, their high computational cost 
 makes them impractical for real-time or large-scale applications. Alternatively, acoustic wave modeling approaches that employ 
 regular domain discretization schemes, such as Digital Waveguide Model (DWM) and Finite-Difference Time-Domian (FDTD) are 
 computationally lightweight. For instance, Gully et al. (2017) applied a heterogeneous DWM, converting 2D/3D rectilinear meshes 
@@ -127,6 +127,13 @@ staircasing.
   </audio>
 </div>
 
+
+<h2>References</h2>
+
+[1] (Arenla et al., 2019) MRI-based vocal tract representations for the three-dimensional finite
+element synthesis of diphthongs.<br>
+[2] (Gully et al., 2017) Diphthong synthesis using the dynamic 3D digital waveguide mesh.<br>
+[3] (Bilbao, 2022) Immersed boundary methods in wave-based virtual acoustics.
 </div>
 </body>
 </html>
