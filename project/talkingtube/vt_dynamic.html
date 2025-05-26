@@ -22,17 +22,32 @@ Only recently have efforts been made to address dynamic articulatory configurati
 two-dimensional (2D) dynamic vocal tract model that employs the Immersed Boundary Method (IBM) to synthesize diphthongs.
 </p> 
 
-<h2>Introduction</h2>
+<h2>Mothod</h2>
 
 <p>
 Speech production involves continuous movement of articulators—such as the jaw, lips, and tongue—to shape the vocal tract 
-geometry/area functions (as shown in Figure 1) and produce sound. Accurately capturing these dynamic changes is particularly important 
+geometry/area functions (as shown below) and produce sound. Accurately capturing these dynamic changes is particularly important 
 for modeling diphthongs, which require smooth interpolation between distinct vowel configurations. Although high-fidelity 
 Finite Element (FE) models are capable of simulating these transitions with great precision, their high computational cost 
-makes them impractical for real-time or large-scale applications. 
+makes them impractical for real-time or large-scale applications. Alternatively, acoustic wave modeling approaches that employ 
+regular domain discretization schemes, such as Digital Waveguide Model (DWM) and Finite-Difference Time-Domian (FDTD) are 
+computationally lightweight. For instance, Gully et al. (2017) applied a heterogeneous DWM, converting 2D/3D rectilinear meshes 
+into admittance maps of airway and tissue properties, then interpolated between vowel-specific admittance maps to synthesize
+diphthongs. However, regular discretization of a computational space using grid cells necessitates approximating the complex 
+vocal tract boundaries in a staircasing manner. We propose a dynamic 2D vocal tract model that combines a 2D FDTD scheme with 
+a unique IBM originally developed for large-scale virtual and room acoustic simulations (Bilbao, 2022).
+</p>
+
+<p>
+Our wave solver is framed in terms of IBM within a 2D FDTD scheme using a dual set of discrete forcing terms in both the continuity 
+and motion equations. As with classic IB methods, the acoustic wave equations are solved on a fixed Eulerian grid, while the vocal 
+tract's sagittal contours are approximated using a fixed set of Lagrangian points as the immersed boundary, eliminating the need for
+staircasing.
 </p>
 
 <img src="/static/img/project/talking-tube/vt_areafunction.gif" alt="Dynamic vocal tract area function transition" width="650" height="220" class="center"/>
+
+<h2>Synthesis Results</h2>
 
 
 </div>
