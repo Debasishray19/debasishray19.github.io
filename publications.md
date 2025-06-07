@@ -18,7 +18,7 @@ title: Publications
 	
 **Peer-Reviewed Conferences**
 
-- **2D Immersed Boundary Method in Vocal Tract Acoustics: An Eulerian–Lagrangian Model for Simulation of Diphthongs**
+- **2D Immersed Boundary Method in Vocal Tract Acoustics: An Eulerian–Lagrangian Model for Simulation of Diphthongs**   
 	R. Wu*, D.R. Mohapatra*, S. Fels<br/>
 	Proceedings of Interspeech (INTERSPEECH) 2025, pp. XX-XX.
 
