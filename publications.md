@@ -12,7 +12,7 @@ title: Publications
 	Ph.D. Proposal <br/>
   	University of British Columbia (UBC) 2023.
   
-- **Talking Tube: A novel approach for vocal tract acoustic modelling using the finite-difference time-domain method** [[PDF]](https://open.library.ubc.ca/cIRcle/collections/ubctheses/24/items/1.0396919)\
+- **Talking Tube: A novel approach for vocal tract acoustic modelling using the finite-difference time-domain method** [[PDF]](https://open.library.ubc.ca/cIRcle/collections/ubctheses/24/items/1.0396919)[[BIB]](https://debasishray19.github.io/bibtex/master-thesis2021.html)\
 	M.A.Sc. Thesis <br/>
   	University of British Columbia (UBC) 2021.  
 	
@@ -22,7 +22,7 @@ title: Publications
 	R. Wu\*, D.R. Mohapatra\*, S. Fels<br/>
 	Proceedings of Interspeech (INTERSPEECH) 2025, pp. XX-XX.
 
-- **2.5D Vocal Tract Modeling: Bridging low-dimensional efficiency with 3D accuracy** [[PDF]](https://www.isca-archive.org/interspeech_2024/mohapatra24b_interspeech.pdf)<span style="color: pink;">[[BIB]](https://debasishray19.github.io/bibtex/interspeech2024a.html)</span><br/> 
+- **2.5D Vocal Tract Modeling: Bridging low-dimensional efficiency with 3D accuracy** [[PDF]](https://www.isca-archive.org/interspeech_2024/mohapatra24b_interspeech.pdf)[[BIB]](https://debasishray19.github.io/bibtex/interspeech2024a.html)<br/> 
 	D.R. Mohapatra, V. Zappi, S. Fels<br/>
 	Proceedings of Interspeech (INTERSPEECH) 2024, pp. 17-21.
 	
