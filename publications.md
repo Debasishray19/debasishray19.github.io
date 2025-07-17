@@ -22,19 +22,19 @@ title: Publications
 	R. Wu\*, D.R. Mohapatra\*, S. Fels<br/>
 	Proceedings of Interspeech (INTERSPEECH) 2025, pp. XX-XX.
 
-- **2.5D Vocal Tract Modeling: Bridging low-dimensional efficiency with 3D accuracy** [[PDF]](https://www.isca-archive.org/interspeech_2024/mohapatra24b_interspeech.pdf)[[bib]](https://debasishray19.github.io/bibtex/interspeech2024a.html)  
+- **2.5D Vocal Tract Modeling: Bridging low-dimensional efficiency with 3D accuracy** [[PDF]](https://www.isca-archive.org/interspeech_2024/mohapatra24b_interspeech.pdf)[[BIB]](https://debasishray19.github.io/bibtex/interspeech2024a.html)<br/> 
 	D.R. Mohapatra, V. Zappi, S. Fels<br/>
 	Proceedings of Interspeech (INTERSPEECH) 2024, pp. 17-21.
 	
-- **Modeling vocal tract like acoustic tubes using the immersed boundary method** [[PDF]](https://www.isca-archive.org/interspeech_2024/wu24o_interspeech.pdf)[[bib]](https://debasishray19.github.io/bibtex/interspeech2024b.html)  
+- **Modeling vocal tract like acoustic tubes using the immersed boundary method** [[PDF]](https://www.isca-archive.org/interspeech_2024/wu24o_interspeech.pdf)[[BIB]](https://debasishray19.github.io/bibtex/interspeech2024b.html)  
 	R. Wu, D.R. Mohapatra, S. Fels<br/>
 	Proceedings of Interspeech (INTERSPEECH) 2024, pp. 3415-3419.
 
-- **Three-dimensional finite-difference time-domain acoustic analysis of simplified vocal tract shapes** [[PDF]](https://www.vocaltractlab.de/publications/mohapatra-2022-interspeech.pdf)[[bib]](https://debasishray19.github.io/bibtex/interspeech2022.html)
+- **Three-dimensional finite-difference time-domain acoustic analysis of simplified vocal tract shapes** [[PDF]](https://www.vocaltractlab.de/publications/mohapatra-2022-interspeech.pdf)[[BIB]](https://debasishray19.github.io/bibtex/interspeech2022.html)<br/>
 	D.R. Mohapatra, M. Fleischer, V. Zappi, P. Birkholz, S. Fels<br/>
 	Proceedings of Interspeech (INTERSPEECH) 2022, pp. 764-768.
   
-- **Vocal tract area function extraction using ultrasound for articulatory speech synthesis** [[PDF]](https://www.isca-speech.org/archive/ssw_2021/mohapatra21_ssw.pdf)[[bib]](https://debasishray19.github.io/bibtex/ssw2021.html)
+- **Vocal tract area function extraction using ultrasound for articulatory speech synthesis** [[PDF]](https://www.isca-speech.org/archive/ssw_2021/mohapatra21_ssw.pdf)[[BIB]](https://debasishray19.github.io/bibtex/ssw2021.html)<br/>
 	D.R. Mohapatra, P. Saha, Y. Liu, B. Gick, S. Fels<br/>
 	Speech Synthesis Workshop (SSW) 2021, pp. 90-95.  
 	
@@ -42,7 +42,7 @@ title: Publications
 	D.R. Mohapatra, V. Zappi, S. Fels<br/>
 	International Seminar on Speech Production (ISSP) 2020, pp. 154-157.
   
-- **An extended two-dimensional vocal tract model for fast acoustic simulation of single-axis symmetric three-dimensional tubes** [[PDF]](https://www.isca-archive.org/interspeech_2019/mohapatra19_interspeech.pdf)[[bib]](https://debasishray19.github.io/bibtex/interspeech2019.html)
+- **An extended two-dimensional vocal tract model for fast acoustic simulation of single-axis symmetric three-dimensional tubes** [[PDF]](https://www.isca-archive.org/interspeech_2019/mohapatra19_interspeech.pdf)[[BIB]](https://debasishray19.github.io/bibtex/interspeech2019.html)<br/>
 	D.R. Mohapatra, V. Zappi, S. Fels<br/>
 	Proceedings of Interspeech (INTERSPEECH) 2019, pp. 3760-64.
    
