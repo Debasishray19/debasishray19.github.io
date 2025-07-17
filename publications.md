@@ -22,7 +22,7 @@ title: Publications
 	R. Wu\*, D.R. Mohapatra\*, S. Fels<br/>
 	Proceedings of Interspeech (INTERSPEECH) 2025, pp. XX-XX.
 
-- **2.5D Vocal Tract Modeling: Bridging low-dimensional efficiency with 3D accuracy** [[PDF]](https://www.isca-archive.org/interspeech_2024/mohapatra24b_interspeech.pdf)[[BIB]](https://debasishray19.github.io/bibtex/interspeech2024a.html)<br/> 
+- **2.5D Vocal Tract Modeling: Bridging low-dimensional efficiency with 3D accuracy** [[PDF]](https://www.isca-archive.org/interspeech_2024/mohapatra24b_interspeech.pdf)<span style="color: pink;">[[BIB]](https://debasishray19.github.io/bibtex/interspeech2024a.html)</span><br/> 
 	D.R. Mohapatra, V. Zappi, S. Fels<br/>
 	Proceedings of Interspeech (INTERSPEECH) 2024, pp. 17-21.
 	
