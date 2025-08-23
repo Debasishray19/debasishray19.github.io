@@ -20,7 +20,7 @@ title: Publications
 
 - **2D Immersed Boundary Method in Vocal Tract Acoustics: An Eulerian–Lagrangian Model for Simulation of Diphthongs**   
 	R. Wu\*, D.R. Mohapatra\*, S. Fels<br/>
-	Proceedings of Interspeech (INTERSPEECH) 2025, pp. XX-XX.
+	Proceedings of Interspeech (INTERSPEECH) 2025, pp. 973-977.
 
 - **2.5D Vocal Tract Modeling: Bridging low-dimensional efficiency with 3D accuracy** [[PDF]](https://www.isca-archive.org/interspeech_2024/mohapatra24b_interspeech.pdf)[[BIB]](https://debasishray19.github.io/bibtex/interspeech2024a.html)<br/> 
 	D.R. Mohapatra, V. Zappi, S. Fels<br/>
@@ -61,3 +61,4 @@ title: Publications
 	Canadian Acoustics (AWC) 2018, pp. 58-59. 
 
 <br/>
+
