@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Publications
+full-width: true
 ---
 
 <a href="https://scholar.google.com/citations?user=HzIWE5kAAAAJ" target="_blank">Google Scholar</a> profile.<br />
