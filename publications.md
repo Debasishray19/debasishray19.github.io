@@ -14,11 +14,18 @@ title: Publications
   
 - **Talking Tube: A novel approach for vocal tract acoustic modelling using the finite-difference time-domain method** [[PDF]](https://open.library.ubc.ca/cIRcle/collections/ubctheses/24/items/1.0396919)[[BIB]](https://debasishray19.github.io/bibtex/master-thesis2021.html)\
 	M.A.Sc. Thesis <br/>
-  	University of British Columbia (UBC) 2021.  
+  	University of British Columbia (UBC) 2021.
+
+**Journals**
+
+- **A 2.5-Dimensional Acoustic Wave Solver: Modeling simplified vocal tract geometries with reduced computational load** [[PDF]](https://pubs.aip.org/asa/jasa/article-abstract/159/4/3515/3387691/A-2-5-dimensional-acoustic-wave-solver-Modeling?redirectedFrom=PDF)
+	D.R. Mohapatra\*, V. Zappi, S. Fels<br/>
+	The Journal of the Acoustical Society of America (JASA), 159(4), pp. 3515-3532
+
 	
 **Peer-Reviewed Conferences**
 
-- **2D Immersed Boundary Method in Vocal Tract Acoustics: An Eulerian–Lagrangian Model for Simulation of Diphthongs** [[PDF]](https://www.isca-archive.org/interspeech_2025/wu25j_interspeech.pdf)[[BIB]](https://debasishray19.github.io/bibtex/interspeech2025.html)<br/>   
+- **2D Immersed Boundary Method in Vocal Tract Acoustics: An Eulerian–Lagrangian Model for Simulation of Diphthongs** [[PDF]](https://www.isca-archive.org/interspeech_2025/wu25j_interspeech.pdf)[[BIB]](https://debasishray19.github.io/bibtex/interspeech2025.html)  
 	R. Wu\*, D.R. Mohapatra\*, S. Fels<br/>
 	Proceedings of Interspeech (INTERSPEECH) 2025, pp. 973-977.
 
