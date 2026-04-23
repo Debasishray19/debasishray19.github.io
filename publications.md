@@ -20,11 +20,15 @@ full-width: true
 **Journals**
 
 - **A 2.5-Dimensional Acoustic Wave Solver: Modeling simplified vocal tract geometries with reduced computational load** [[PDF]](https://pubs.aip.org/asa/jasa/article-abstract/159/4/3515/3387691/A-2-5-dimensional-acoustic-wave-solver-Modeling?redirectedFrom=PDF)<br/>
-	D.R. Mohapatra\*, V. Zappi, S. Fels<br/>
-	The Journal of the Acoustical Society of America (JASA), 159(4), pp. 3515-3532
+	D.R. Mohapatra, V. Zappi, S. Fels<br/>
+	The Journal of the Acoustical Society of America (JASA) 2026, Vol. 159(4), pp. 3515-3532
 
 	
 **Peer-Reviewed Conferences**
+
+- **Beyond Direct Geometry: Spring-Mass control of tongue articulation for vocal synthesis**<br/>
+	D.R. Mohapatra\*, Z. Xia\*, S. Fels<br/>
+	New Interfaces for Musical Expression (NIME) 2026.
 
 - **2D Immersed Boundary Method in Vocal Tract Acoustics: An Eulerian–Lagrangian Model for Simulation of Diphthongs** [[PDF]](https://www.isca-archive.org/interspeech_2025/wu25j_interspeech.pdf)[[BIB]](https://debasishray19.github.io/bibtex/interspeech2025.html)  
 	R. Wu\*, D.R. Mohapatra\*, S. Fels<br/>
