@@ -19,7 +19,7 @@ full-width: true
 
 **Journals**
 
-- **A 2.5-Dimensional Acoustic Wave Solver: Modeling simplified vocal tract geometries with reduced computational load** [[PDF]](https://pubs.aip.org/asa/jasa/article-abstract/159/4/3515/3387691/A-2-5-dimensional-acoustic-wave-solver-Modeling?redirectedFrom=PDF)
+- **A 2.5-Dimensional Acoustic Wave Solver: Modeling simplified vocal tract geometries with reduced computational load** [[PDF]](https://pubs.aip.org/asa/jasa/article-abstract/159/4/3515/3387691/A-2-5-dimensional-acoustic-wave-solver-Modeling?redirectedFrom=PDF)<br/>
 	D.R. Mohapatra\*, V. Zappi, S. Fels<br/>
 	The Journal of the Acoustical Society of America (JASA), 159(4), pp. 3515-3532
 
