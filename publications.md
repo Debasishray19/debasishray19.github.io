@@ -59,7 +59,7 @@ full-width: true
 	Proceedings of Interspeech (INTERSPEECH) 2019, pp. 3760-64.
    
 
-**Peer-Reviewed Abstracts**
+**Lightly-Reviewed Abstracts and Preprints**
 - **Speak with your hands - Using continuous hand gestures to control articulatory speech synthesizer** [[PDF]](https://arxiv.org/pdf/2102.01640.pdf)  
 	P. Saha, D.R. Mohapatra, S. Fels<br/>
 	International Seminar on Speech Production (ISSP) 2020.
