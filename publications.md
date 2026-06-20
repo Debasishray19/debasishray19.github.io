@@ -26,6 +26,14 @@ full-width: true
 	
 **Peer-Reviewed Conferences**
 
+- **Influence of Vocal Tract Curvature on Speech Acoustics: A Three-Dimensional FEM Analysis**<br/>
+	D.R. Mohapatra, S. Fels<br/>
+	Proceedings of Interspeech (INTERSPEECH) 2026.
+
+- **Physics-Informed neural operator for speech production analysis**<br/>
+	K. Yokota, X. Luan, D.R. Mohapatra, G. Scavone, S. Fels<br/>
+	Proceedings of Interspeech (INTERSPEECH) 2026.
+
 - **Beyond Direct Geometry: Spring-Mass control of tongue articulation for vocal synthesis**<br/>
 	D.R. Mohapatra\*, Z. Xia\*, S. Fels<br/>
 	New Interfaces for Musical Expression (NIME) 2026.
