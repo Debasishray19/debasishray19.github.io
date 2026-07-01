@@ -34,11 +34,11 @@ full-width: true
 	K. Yokota, X. Luan, D.R. Mohapatra, G. Scavone, S. Fels<br/>
 	Proceedings of Interspeech (INTERSPEECH) 2026.
 
-- **Beyond Direct Geometry: Spring-Mass control of tongue articulation for vocal synthesis**<br/>
-	D.R. Mohapatra\*, Z. Xia\*, S. Fels<br/>
+- **Beyond Direct Geometry: Spring-Mass control of tongue articulation for vocal synthesis** [[PDF]](https://nime.org/proc/nime2026_156/index.html)[[BIB]](https://debasishray19.github.io/bibtex/nime2026.html)
+	</br>D.R. Mohapatra\*, Z. Xia\*, S. Fels<br/>
 	New Interfaces for Musical Expression (NIME) 2026.
 
-- **2D Immersed Boundary Method in Vocal Tract Acoustics: An Eulerian–Lagrangian Model for Simulation of Diphthongs** [[PDF]](https://www.isca-archive.org/interspeech_2025/wu25j_interspeech.pdf)[[BIB]](https://debasishray19.github.io/bibtex/interspeech2025.html)  
+- **2D Immersed Boundary Method in Vocal Tract Acoustics: An Eulerian–Lagrangian Model for Simulation of Diphthongs** [[PDF]](https://www.isca-archive.org/interspeech_2025/wu25j_interspeech.pdf)[[BIB]](https://debasishray19.github.io/bibtex/interspeech2025.html) 
 	R. Wu\*, D.R. Mohapatra\*, S. Fels<br/>
 	Proceedings of Interspeech (INTERSPEECH) 2025, pp. 973-977.
 
