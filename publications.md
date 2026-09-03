@@ -26,7 +26,7 @@ full-width: true
 	
 **Peer-Reviewed Conferences**
 
-- **Influence of Vocal Tract Curvature on Speech Acoustics: A Three-Dimensional FEM Analysis**<br/>
+- **Influence of vocal tract curvature on speech acoustics: A Three-Dimensional FEM Analysis**<br/>
 	D.R. Mohapatra, S. Fels<br/>
 	Proceedings of Interspeech (INTERSPEECH) 2026.
 
