@@ -26,11 +26,11 @@ full-width: true
 	
 **Peer-Reviewed Conferences**
 
-- **Influence of vocal tract curvature on speech acoustics: A Three-Dimensional FEM Analysis**<br/>
+- **Influence of vocal tract curvature on speech acoustics: A Three-Dimensional FEM Analysis** [[PDF]](https://www.isca-archive.org/interspeech_2026/mohapatra26_interspeech.pdf)[[BIB]](https://debasishray19.github.io/bibtex/interspeech2026b.html)<br/>
 	D.R. Mohapatra, S. Fels<br/>
 	Proceedings of Interspeech (INTERSPEECH) 2026.
 
-- **Physics-Informed neural operator for speech production analysis**<br/>
+- **Physics-Informed neural operator for speech production analysis** [[PDF]](https://www.isca-archive.org/interspeech_2026/yokota26_interspeech.pdf)[[BIB]](https://debasishray19.github.io/bibtex/interspeech2026a.html)<br/>
 	K. Yokota, X. Luan, D.R. Mohapatra, G. Scavone, S. Fels<br/>
 	Proceedings of Interspeech (INTERSPEECH) 2026.
 
@@ -68,6 +68,11 @@ full-width: true
    
 
 **Lightly-Reviewed Abstracts and Preprints**
+
+- **Physics-based simulation of vowel utterances using a biomechanical-acoustic model** [[PDF]](https://www.isca-archive.org/dc_2026/mohapatra26_dc.pdf)[[BIB]](https://debasishray19.github.io/bibtex/isca-dc2026.html)<br/>
+	D.R. Mohapatra<br/>
+	12th ISCA-SAC Doctoral Consortium (DC) 2026.
+
 - **Speak with your hands - Using continuous hand gestures to control articulatory speech synthesizer** [[PDF]](https://arxiv.org/pdf/2102.01640.pdf)  
 	P. Saha, D.R. Mohapatra, S. Fels<br/>
 	International Seminar on Speech Production (ISSP) 2020.
